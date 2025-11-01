@@ -28,7 +28,7 @@ export default function Navbar() {
       }`}
     >
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center text-xl">
-        <Link href="/" className="text-4xl font-bold">
+        <Link href="/" className="text-3xl font-bold">
           <div>
             <p>
               <span className="text-[#4ff0b7]">B</span>estin
