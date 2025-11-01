@@ -8,8 +8,7 @@ function HomeSlider() {
   return (
     <TextFade>
       <h2 className="text-[40px]">
-        <p>Welcome to Bestin Technologies Limited!</p><p> Your Trusted IT Consulting
-        Partner!!</p>
+        <p>Welcome to Bestin Technologies Limited!</p>
       </h2>
     </TextFade>
   );
