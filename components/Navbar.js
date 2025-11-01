@@ -34,7 +34,7 @@ export default function Navbar() {
               <span className="text-[#4ff0b7]">B</span>estin
             </p>
             <p>
-              <span className="text-[#4ff0b7]">T</span>echnologies
+              <span className="text-[#4ff0b7]">T</span>echnologies 
             </p>
           </div>
         </Link>
